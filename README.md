@@ -6,9 +6,6 @@ Tasker is a simple task manager app built with flutter. It is a simple app that 
 To run this app on your local machine, you need to have flutter installed on your machine. If you don't have flutter installed, you can follow the instructions [here](https://flutter.dev/docs/get-started/install) to install it.
 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/dev-zayn/tasker/assets/38259126/6ebfad58-c93e-4597-a7eb-63f22bf779f2
+
